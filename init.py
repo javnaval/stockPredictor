@@ -1,2 +1,2 @@
-print("hello")
-#eljfslfj slkf
+print("uno")
+print("dos")
