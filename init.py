@@ -1,2 +1,1 @@
-print("uno")
-print("dos")
+print("hijo de putaaaaaaaaaa")
