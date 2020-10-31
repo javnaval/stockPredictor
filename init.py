@@ -1,1 +1,1 @@
-print("hijo de putaaaaaaaaaa")
+print("puto men")
