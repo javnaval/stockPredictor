@@ -1,1 +1,1 @@
-print("puto men")
+print("3")
